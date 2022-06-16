@@ -1,5 +1,7 @@
 # Speech-Dataset-Summarizing
-汇总一些开源可用的语音数据集
+汇总一些开源可用的语音数据集和噪声数据集
+
+## 语音数据集
 
 ### 几个最新免费开源的中文语音数据集
 包括普通语音识别、唤醒和合成等中文数据集  
@@ -32,3 +34,55 @@ Github网址：https://github.com/microsoft/AEC-Challenge  https://github.com/Yo
 描述：北京Magic data科技有限公司开发的一个开源数据平台，致力于帮助AI开发者进行模型培训，促进开源生态系统的发展。
 官方网址：https://magichub.com/datasets  
 Github网址： https://github.com/MagicHub-io  
+
+
+## 噪声数据集
+
+### NoiseX-92
+链接：https://pan.baidu.com/s/1MYfL6_PXPoOmb07LgsoouQ  
+提取码：zz2l  
+包含15种噪声：  
+
+White noise  
+Pink noise  
+HF channel noise  
+Speech babble  
+Factory floor noise 1  
+Factory floor noise 2  
+Jet cockpit noise 1  
+Jet cockpit noise 2  
+Destroyer engine room noise  
+Destroyer operations room noise  
+F-16 cockpit noise  
+Military vehicle noise  
+Tank noise  
+Machine gun noise  
+Car interior noise  
+
+### Demand噪声库
+包含多通道的真实环境噪声。  
+https://zenodo.org/record/1227121#.YMhQBvkzZnI  
+
+### TUT声学场景
+https://zenodo.org/record/45739#.YMhP2PkzZnI  
+包含15个声学场景的音频片段  
+Bus - traveling by bus in the city (vehicle)  
+Cafe / Restaurant - small cafe/restaurant (indoor)  
+Car - driving or traveling as a passenger, in the city (vehicle) 
+City center (outdoor)  
+Forest path (outdoor)  
+Grocery store - medium size grocery store (indoor)  
+Home (indoor)  
+Lakeside beach (outdoor)  
+Library (indoor)  
+Metro station (indoor)  
+Office - multiple persons, typical work day (indoor)  
+Residential area (outdoor)  
+Train (traveling, vehicle)  
+Tram (traveling, vehicle)  
+Urban park (outdoor)  
+
+### voxceleb dataset
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/  
+包含噪声：环境突发噪声、背景人声、笑声、回声、室内噪音、录音设备噪音；  
+Speakers总数1,251，句子总数153,516，时长总数351h；  
