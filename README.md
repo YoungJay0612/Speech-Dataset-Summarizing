@@ -3,6 +3,10 @@
 
 ## 语音数据集
 
+### 训练数据集
+VTCK:https://datashare.ed.ac.uk/handle/10283/2950  
+https://datashare.ed.ac.uk/handle/10283/2791  
+
 ### 几个最新免费开源的中文语音数据集
 包括普通语音识别、唤醒和合成等中文数据集  
 https://blog.ailemon.net/2018/11/21/free-open-source-chinese-speech-datasets/  
